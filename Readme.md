@@ -1,7 +1,12 @@
 <h1 align="center">i'm Naimo farah mohamed</h1> 
 <img align="right" alt="coding" width="50%" src="https://docs.flutter.dev/assets/images/flutter-logo-sharing.png">
 
+
 <h3 align="center">this repository consists Flutter Project</h3>
+
+Some Info For Teather : 
+Name : Naimo farah mohamed
+ID:  443
 
 
 <h3 align="left">Connect with me:</h3>
