@@ -1,3 +1,24 @@
+
+
+
+Outputs 
+_________________________________________________________________________________________________________________________________________________________________
+
+![WhatsApp Image 2023-02-06 at 00 34 32 (2)](https://user-images.githubusercontent.com/124528280/216933120-60b569c2-f063-4789-b329-e75f88bfb244.jpeg)
+![WhatsApp Image 2023-02-06 at 00 34 32 (3)](https://user-images.githubusercontent.com/124528280/216933133-41a36dec-fd03-4de3-aaf6-022116c8210c.jpeg)
+![WhatsApp Image 2023-02-06 at 00 34 32](https://user-images.githubusercontent.com/124528280/216933136-f4508ed3-1395-4c8b-864c-48bdbd07cfcc.jpeg)
+![WhatsApp Image 2023-02-06 at 00 34 32 (1)](https://user-images.githubusercontent.com/124528280/216933144-dea49177-a266-490f-91aa-129ee00a0e52.jpeg)
+
+
+
+
+
+
+
+
+
+_________________________________________________________________________________________________________________________________________________________________
+
 <h1 align="center">i'm Naimo farah mohamed</h1> 
 <img align="right" alt="coding" width="50%" src="https://docs.flutter.dev/assets/images/flutter-logo-sharing.png">
 
